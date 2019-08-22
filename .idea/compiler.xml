@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="qa21.wikipedia_web_tests.main" target="1.8" />
+      <module name="qa21.wikipedia_web_tests.test" target="1.8" />
+      <module name="selenium_home.main" target="1.8" />
+      <module name="selenium_home.test" target="1.8" />
+      <module name="wikipedia_web_tests.main" target="1.8" />
+      <module name="wikipedia_web_tests.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
