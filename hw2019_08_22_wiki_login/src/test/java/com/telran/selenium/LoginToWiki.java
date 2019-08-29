@@ -8,32 +8,18 @@ public class LoginToWiki extends TestBase{
 
 public void loginTest() throws InterruptedException {
 
-driver.get("https://en.wikipedia.org");
+        openSite("https://en.wikipedia.org");
 
-        click(By.id("pt-login"));
+        initLogin();
 
-        click(By.id("wpName1"));
-        clear(By.id("wpName1"));
-        driver.findElement(By.id("wpName1")).sendKeys("user123@test.com");
+        fillLoginForm("user123@test.com", "Test123");
 
-        click(By.id("wpPassword1"));
-        clear(By.id("wpPassword1"));
-        driver.findElement(By.id("wpPassword1")).sendKeys("Test123");
-
-        click(By.id("wpLoginAttempt"));
+        clickLogin();
 
 
         Thread.sleep(10000);
 
 }
-
-    public void clear(By id) {
-        driver.findElement(id).clear();
-    }
-
-    public void click(By locator) {
-        driver.findElement(locator).click();
-    }
 
 
 }

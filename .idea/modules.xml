@@ -5,9 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hw2019_08_22_wiki_login.iml" filepath="$PROJECT_DIR$/.idea/modules/hw2019_08_22_wiki_login.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hw2019_08_22_wiki_login.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hw2019_08_22_wiki_login.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hw2019_08_22_wiki_login.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hw2019_08_22_wiki_login.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikipedia_web_tests.iml" filepath="$PROJECT_DIR$/.idea/modules/wikipedia_web_tests.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikipedia_web_tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/wikipedia_web_tests.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikipedia_web_tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/wikipedia_web_tests.test.iml" />
     </modules>
   </component>
 </project>

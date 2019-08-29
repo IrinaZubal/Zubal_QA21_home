@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id="hw2019_08_22_wiki_login" external.linked.project.path="$MODULE_DIR$/../../hw2019_08_22_wiki_login" external.root.project.path="$MODULE_DIR$/../../hw2019_08_22_wiki_login" external.system.id="GRADLE" external.system.module.group="qa21" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
-  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../hw2019_08_22_wiki_login" rootProjectPath="$MODULE_DIR$/../../hw2019_08_22_wiki_login" />
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../hw2019_08_22_wiki_login">
