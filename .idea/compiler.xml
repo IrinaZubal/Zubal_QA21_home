@@ -2,14 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="hw2019_08_22_wiki_login.main" target="1.8" />
-      <module name="hw2019_08_22_wiki_login.test" target="1.8" />
-      <module name="qa21.wikipedia_web_tests.main" target="1.8" />
-      <module name="qa21.wikipedia_web_tests.test" target="1.8" />
-      <module name="selenium_home.main" target="1.8" />
-      <module name="selenium_home.test" target="1.8" />
-      <module name="wikipedia_web_tests.main" target="1.8" />
-      <module name="wikipedia_web_tests.test" target="1.8" />
+      <module name="trello_web.main" target="1.8" />
+      <module name="trello_web.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

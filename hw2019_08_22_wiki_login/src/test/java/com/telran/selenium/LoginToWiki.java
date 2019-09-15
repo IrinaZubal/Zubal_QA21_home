@@ -1,6 +1,5 @@
 package com.telran.selenium;
 
-import org.openqa.selenium.By;
 import org.testng.annotations.Test;
 
 public class LoginToWiki extends TestBase{
@@ -8,13 +7,13 @@ public class LoginToWiki extends TestBase{
 
 public void loginTest() throws InterruptedException {
 
-        openSite("https://en.wikipedia.org");
+        app.openSite("https://en.wikipedia.org");
 
-        initLogin();
+        app.initLogin();
 
-        fillLoginForm("user123@test.com", "Test123");
+        app.fillLoginForm("user123@test.com", "Test123");
 
-        clickLogin();
+        app.clickLogin();
 
 
         Thread.sleep(10000);
