@@ -19,7 +19,7 @@ public class ApplicationManager {
     }
 
     public void init() {
-        String browser = null;
+       // String browser = null;
         if(browser.equals(BrowserType.CHROME)){
             driver = new ChromeDriver();
         }if(browser.equals(BrowserType.FIREFOX)){
