@@ -1,6 +1,5 @@
-package com.telran.selenium;
+package com.telran.selenium.manager;
 
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;

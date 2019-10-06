@@ -1,5 +1,6 @@
-package com.telran.selenium;
+package com.telran.selenium.manager;
 
+import com.telran.selenium.manager.ApplicationManager;
 import org.openqa.selenium.remote.BrowserType;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;

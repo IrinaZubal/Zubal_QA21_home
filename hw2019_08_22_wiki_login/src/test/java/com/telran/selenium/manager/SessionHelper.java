@@ -1,9 +1,10 @@
-package com.telran.selenium;
+package com.telran.selenium.manager;
 
+import com.telran.selenium.manager.HelperBase;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-public class SessionHelper extends HelperBase{
+public class SessionHelper extends HelperBase {
     public SessionHelper(WebDriver driver) {
         super(driver);
     }

@@ -1,10 +1,11 @@
-package com.telran.selenium;
+package com.telran.selenium.tests;
 
+import com.telran.selenium.manager.TestBase;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-public class LoginToWiki extends TestBase{
+public class LoginToWiki extends TestBase {
      @BeforeMethod
      public void isOnHomePage () {
              if (!app.getSessionHelper().isWikiHomePageOpened()) {

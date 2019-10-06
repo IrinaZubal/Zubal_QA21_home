@@ -1,4 +1,4 @@
-package com.telran.selenium;
+package com.telran.selenium.manager;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -25,4 +25,14 @@ public class HelperBase {
     public void click(By locator) {
         driver.findElement(locator).click();
     }
+
+    public void search(String text) throws InterruptedException {
+        type(By.name("search"),text);
+        Thread.sleep(8000);
+    }
+
+    public void initSearch() {
+        driver.findElement(By.name("go")).click();
+    }
+
 }
