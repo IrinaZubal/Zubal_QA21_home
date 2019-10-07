@@ -5,6 +5,7 @@
     <test name="RegressionTrello">
         <classes>
             <class name="com.telran.selenium.tests.LoginToWiki"/>
+            <class name="com.telran.selenium.tests.SearchWikiTests"/>
 
         </classes>
     </test>
