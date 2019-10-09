@@ -1,0 +1,4 @@
+18:39:57.952 [main] INFO  com.telran.selenium.manager.TestBase - start test loginTest with parameters []
+18:40:34.825 [main] INFO  com.telran.selenium.manager.TestBase - stop test loginTest
+18:40:34.830 [main] INFO  com.telran.selenium.manager.TestBase - start test SearchWikiTest with parameters []
+18:40:51.716 [main] INFO  com.telran.selenium.manager.TestBase - stop test SearchWikiTest
